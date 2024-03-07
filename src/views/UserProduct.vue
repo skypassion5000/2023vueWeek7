@@ -1,0 +1,3 @@
+<template>
+  UserProduct.vue
+</template>
